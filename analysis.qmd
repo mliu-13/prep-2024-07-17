@@ -73,19 +73,33 @@ tibble(ID = c("1", "2", "...", "10", "11", "...", "N"),
 
 > What are the units, precisely?
 
+Resume
+
 > What is the moment in time, precisely?
 
+2024
+
 > What is one reason why validity might not hold?
+
+Biased sampling through targeting companies by sending specific resumes to each
 
 <!-- Assume validity holds, and we can create the Population Table -->
 
 > Describe the Population Table in words
 
+The combination of the Preceptor table, data and other population data
+
 > What is one reason why stability might not hold?
+
+Inclusivity could have gotten better since 2004 (people and their beliefs could have changed) and also companies may be looking to create a more diverse workforce
 
 > What is one reason why representativeness might not hold?
 
+Boston cannot fully represent all of the United States
+
 > What is one reason why unconfoundedness might not hold?
+
+Resumes selected to have white or black names could've been not random (i.e. good education were primarily assigned to white name)
 
 > Describe in words what the Preceptor Table would look like if we were trying to, instead, predict whether or not someone would get a callback?
 
